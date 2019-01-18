@@ -1,0 +1,82 @@
+h1{
+  color: #4BB19B;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+h2{
+  color: #4BB19B;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 4%;
+}
+h4{
+  color: #4BB19B;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+body{
+  background-color: lightblue;
+  text-align: center;
+  margin: 0;
+}
+hr{
+  margin-top: 5%;
+  border-style: dotted none none;
+  color: #a5f0ff;
+  border-width: 5px;
+  align-items: center;
+  width: 5%;
+  margin-bottom: 5%;
+
+}
+p{
+  color: #33313b;
+  font-size: 21px;
+  text-align: center;
+  width: 35%;
+  margin: 0 auto;
+  font-family: "Quicksand", sans-serif;
+}
+/* WARNING:  .cloud{
+
+}
+.bottomcloud{
+  position: absolute;
+}*/
+.campfire{
+  height:100%;
+  width: 100%;
+  margin: 0;
+  background-color: lightblue;
+}
+img{
+width: 40px;
+height: 40px;
+margin-right: 8%;
+
+
+}
+.superman{
+  border-radius: 100%;
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  margin: 1% 0% 0% 85%;
+}
+div{
+  margin-top: 20px;
+}
+.mainname{
+  position: absolute;
+  text-align: center;
+  margin: 20% 0 0 41%;
+}
+.mail{
+  width: 120px;
+  height: 120px;
+  margin-left: 10%;
+  margin-bottom: 2%;
+}
